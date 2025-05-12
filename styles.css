@@ -102,7 +102,7 @@ a:visited {
 }
 
 #active-art-div .expandable {
-    max-width: 600px;
+    max-width: 500px;
     position: absolute;
     top: 50%;
     left: 75%;
@@ -147,6 +147,7 @@ a:visited {
     display: block;
     left: 50vw;
     border-color: red;
+    margin: 2em;
 }
 
 
@@ -157,11 +158,14 @@ a:visited {
 
 #artwork-name {
     color:black;
-    font-size: 64px;
+    font-size: 48px;
 }
 
 #clicktocommodify {
     display: none;
+     position: fixed;
+    bottom: 0;
+    margin-bottom: 1em;
 }
 
 #title-button {
@@ -175,7 +179,7 @@ a:visited {
     margin-left: 2rem; */
     padding: .25em;
     margin-left: 2rem;
-    margin-right: .5em;
+    margin-right: 1em;
     text-align: center;
     margin-top: 10px;
     text-decoration: underline;
@@ -188,7 +192,7 @@ a:visited {
     /* font-weight: bold; */
     font-size: 24px;
     margin-left: 2rem;
-    margin-bottom: 0;
+    margin-bottom: 1rem;
 }
 
 
@@ -246,20 +250,21 @@ a:visited {
     grid-column: 1;
     margin: 0;
     color: black;
+    margin-top: 1em;
 }
 
 #class1 {
     grid-column: 2;
     margin-left: 0;
     color: black;
-    margin-top: 0;
-    max-width: 80%;
+    margin-top: 1em;
+    max-width: 80%;    
 }
 
 #curatorial {
     grid-column: 3;
     margin-left: 0;
-    margin-top: 0;
+    margin-top: 1em;
        color: #2F00FF;
 }
 
@@ -302,7 +307,7 @@ h4 {
 
 #subtitle {
     color: black;
-    margin-bottom: 3em;
+    margin-bottom: 1em;
     margin-left: 2rem;
     font-size: 40px;
 }
