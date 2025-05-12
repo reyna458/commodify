@@ -337,7 +337,7 @@ scrollbar-color: white #2F00FF; /* thumb color, track color */
   position: relative;
     padding-right: 2.5%;
  font-family: Helvetica, sans-serif;
- font-size: 24px;
+ font-size: 16px;
  margin-left: 2rem;
  line-height: 150%;
    overflow-y: auto;
