@@ -1,0 +1,63 @@
+[
+  {
+    "Title": "Debtfair",
+    "Tombstone": "Occupy Museums (Founded 2011)<br>Debtfair, 2014-ongoing<br>Thirty artworks and interactive website, dimensions variable<br> Installation at Whitney Museum of American Art, 2017",
+    "Text": "The exhibition starts with the opening work from Debtfair, an ongoing exhibition at The Whitney. This exhibition centers around a single question: ““how does your economic reality affect your art?” This graph at the beginning shows the difference between the worth of these art bundles and the debt of the artists. The image of the ‘starving artist’ can be reductive, but in reality, it is very difficult to support oneself as an artist. Hence the urge to COMMODIFY.",
+    "Img": "artwork/debtfair.jpg",
+    "Commodify": "0"
+  },
+  {
+    "Title": "192 One Dollar Bills",
+    "Tombstone": " Andy Warhol (American, 1928-1987)<br>192 One Dollar Bills<br>1962 Silkscreen ink and acrylic on linen, 97 1/4 x 74 1/2 in. <br>Brant Foundation",
+    "Text": "The monetary value of art is a hard thing to determine. Warhol’s piece, a collection of single dollar bills assembled in a grid, sold for millions of dollars. Now, you can find expensive products with this exact design on them.",
+    "Img": "artwork/warhol.jpg",
+    "Commodify": "1",
+    "Commodifyimg": "artwork/warhol-commodify.jpg"
+  },
+  {
+    "Title": "Untitled (The Future Belongs To Those Who Can See It)",
+    "Tombstone": "Barbara Kruger (American, b. 1945)<br>Untitled (The future belongs to those who can see it), 1997 <br>Silkscreen on vinyl, 85 x 60 in. <br>The Chris and Dori Carter Collection",
+    "Text": "Barbara Kruger’s work explored themes of the male gaze and consumerism, through black and white imagery with bold Futura lettering on a red background. Her work was critical of the world it existed in, asking questions about what it meant to be a consumer or an artist. In the years following the release of Kruger’s iconic catalog, her signature style of lettering was co-opted by the designer brand Supreme. Despite Supreme’s massive popularity, Kruger didn’t comment on the brand until 2013, when Supreme filed a lawsuit against another brand, “Married To The Mob”, for copyright infringement of their logo. Of the situation, Kruger said in an email:<br><br>“What a ridiculous clusterfuck of totally uncool jokers. I make my work about this kind of sadly foolish farce. I’m waiting for all of them to sue me for copyright infringement.”",
+    "Img": "artwork/kruger.jpg",
+    "Commodify": "1",
+    "Commodifyimg": "artwork/kruger-commodify.jpg"
+  },
+  {
+    "Title": "Self-Portrait (Time Flies)",
+    "Tombstone": "Frida Kahlo (Mexican, 1907–1954)<Br>Self-portrait (Time Flies), 1929 Oil on canvas<br> Private collection",
+    "Text": "Frida Kahlo’s self-portraits have cemented her look and art style as instantly recognizable. Kahlo created this self-portrait in 1929, standing out from her contemporaries as a Mexican, openly bisexual, disabled woman, who was not afraid to experiment with gender roles. In the modern day, Kahlo’s image has been commodified as a ‘feminist’ symbol, and used to sell products ranging from dolls to AI-generated tee shirt designs.",
+    "Img": "artwork/frida.jpg",
+    "Commodify": "1",
+    "Commodifyimg": "artwork/frida-commodify.jpg"
+  },
+  {
+    "Title": "The Potato Peeler (reverse: Self-Portrait with a Straw Hat)",
+    "Tombstone": "Vincent Van Gogh (Dutch, 1853–1890)<br>The Potato Peeler (reverse: Self-Portrait with a Straw Hat)<br> 1885 Oil on canvas, 16 x 12 1/2 in <br>Metropolitan Museum of Art",
+    "Text": "These two works by Van Gogh represent two very different people. His self portrait, of course, represents himself, but The Potato Peeler is a painting from his ‘peasant studies.’ Van Gogh’s most iconic works use bright colors, but The Potato Peeler distinctly does not. Traveling exhibitions called ‘immersive experiences,’ use projections to project some of Van Gogh’s paintings to make the viewer feel as if they are really living in that world. Some exhibits even use his very image in the same way.",
+    "Img": "artwork/vangogh.jpg",
+    "Commodify": "1",
+    "Commodifyimg": "artwork/vangogh-commodify.jpg"
+  },
+  {
+    "Title": "The Heart of the Andes",
+    "Tombstone": "Frederic Edwin Church (American, 1826–1900)<br>The Heart of the Andes<br>1859 Oil on canvas, 66 1/8 x 120 3/16 in.<br> Metropolitan Museum of Art",
+    "Text": "The Heart of the Andes is a picturesque landscape. Besides the implied presence of the painter, there is no trace of humanity’s impact on the world here. This nature scene fills the viewer with a sense of awe at the scale and beauty of the natural world. In the modern world, nature too has been commodified. The Amazon Spheres in Seattle act as ‘natural’ spaces for Amazon employees, with non-employees only being allowed in for short periods of time, two days a month.",
+    "Img": "artwork/heart-of-the-andes.jpg",
+    "Commodify": "1",
+    "Commodifyimg": "artwork/amazon-sphere.jpg"
+  },
+  {
+    "Title": "’61 Pontiac",
+    "Tombstone": "Robert Bechtle (American, 1932–2020)<br> ’61 Pontiac<br> 1968-69 Oil on canvas, 59 3/4 × 84 1/4 in.<br> Whitney Museum of American Art",
+    "Text": "Robert Bechtle’s ‘61 Pontiac shows the ‘typical’ American family of the 1960s. The image here is the absolute ideal of the white nuclear family, defined in large by what they consume. The painting's namesake, for instance, comes from the station wagon that takes up most of the frame. This car, this product, represents the optimism and opportunity of the hypothetical but ever elusive American Dream.",
+    "Img": "artwork/pontiac.jpeg",
+    "Commodify": "0"
+  },
+  {
+    "Title": "Picturing People: Ella Barnes and Ruby Bennett",
+    "Tombstone": "Ash Reynolds (American, b. 2004)<br>“Picturing People: Ella Barnes and Ruby Bennett”<br>Digital Photography, Audio Visualizations",
+    "Text": "I included my own work as the last piece in the exhibition, as I too have connected art and consumption, albeit on accident. These two photos show two women, with ‘auras’ made up of audio visualizations of their top songs on Spotify. The assignment prompt was to portray a person, in any way possible. While I do love how these look visually, the connection between personhood and consumption habits has snuck its way into my own work.",
+    "Img": "artwork/picturingpeople.jpg",
+    "Commodify": "0"
+  }
+]

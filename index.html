@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>COMMODIFY</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="styles.css">
+         <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+           <link rel="icon" type="image/x-icon" href="cursor.ico">
+    </head>
+    <body id="body" class="clickable">
+        <header class="big">
+
+            <h1 class="interactable">Click anywhere to begin</h1>
+            <img src="assets/cover-txt.png">
+          
+        </header>
+
+        <main>
+
+            <div id="text-div">
+                <div id="top-text">
+                    <h4 id="name">Ash Reynolds</h4>
+                    <h4 id="class">History of Modern & Contemporary Art</h4>
+                    <h2 id="title">COMMODIFY</h2>
+                    <h3 id="subtitle">A Virtual Exhibition</h3>
+                </div>
+
+                <div id="statement">
+                    <h3>Curatorial Statement</h3>
+                    <div class="bodycopy">
+                        <p>For my Virtual Exhibition, I wanted to explore the relationship between art, consumption and commodification. Throughout the semester, I found myself responding most to the artworks in the lecture whose meaning had changed over the years due to the work itself or the artist’ image being COMMODIFIED.</p>
+
+                        <p>This curatorial statement is continued as you click through the gallery. You can read the plain text version <a href="https://docs.google.com/document/d/1r1wUi0qWZR6ooRicfB2K3LIWNGVdw_3wRigxLK1zci4/edit?usp=sharing" target="_blank">here.</a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="art-div">
+                <div class="button-container">
+                    <button id="startbutton" class="interactable">Click here to begin</button>
+                </div>
+            </div>
+
+            <div id="active-text-div" class="hidden">
+                <div id="active-header">
+                    <h4 id="name1">Ash Reynolds</h4>
+                    <h4 id="class1">History of Modern & Contemporary Art</h4>
+                    <h4 id="curatorial" class="interactable">COMMODIFY</h4>
+                </div>
+                <h3 id="artwork-name">Artwork Title</h3>
+                <h4 id="tombstone">Tombstone information</h4>
+                <p class="bodycopy-active">Donec ac consectetur tellus, vel pretium ante. Etiam dictum tincidunt  posuere. Fusce ut aliquam nisl. Lorem ipsum dolor sit amet, consectetur  adipiscing elit. Fusce ultricies mi nec eros ullamcorper euismod.  Integer pharetra, libero vel lacinia condimentum, erat neque fermentum  ipsum, aliquam pretium justo sapien eget metus. Etiam diam enim,  vestibulum in aliquam at, volutpat id purus. Quisque luctus, ex a  eleifend euismod, turpis lorem pellentesque justo, cursus pellentesque  tortor turpis ut augue. Curabitur ultricies ipsum at fermentum lobortis. Nunc sed odio vitae dui molestie lobortis quis at felis. Donec et odio  arcu. Class aptent taciti sociosqu ad litora torquent per conubia  nostra, per inceptos himenaeos. Nullam mollis, quam et ultrices  ullamcorper, enim arcu faucibus enim, id cursus ante orci et diam. Sed  tempor nisl id dui mollis porta. Aliquam vel risus in sem tempus  aliquam. Nullam porttitor diam in leo vulputate scelerisque. Suspendisse dignissim purus vel semper luctus. Praesent consequat in felis.</p>
+
+                <div id="clicktocommodify">
+                    <h3 id="clickto">Click to...</h3>
+                     <button id="title-button" class="interactable">COMMODIFY</button>
+                </div>
+            </div>
+
+            <div id="active-art-div" class="hidden">
+                <div id="art-itself">
+                 
+                </div>
+                <div id="rightleft">
+                    <img id="left" src="assets/leftarrow.png">
+                    <img id="right" class="arrow-clickable-right" src="assets/rightarrow.png">
+                </div>
+            </div>
+        </main>
+        <script src="scripts/script.js" async defer></script>
+           <script src="scripts/art-counter.js" async defer></script>
+    </body>
+</html>
