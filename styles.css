@@ -11,6 +11,10 @@ html {
     cursor: url(./assets/interactable-cursor.png), auto;
 }
 
+a:hover {
+       cursor: url(./assets/interactable-cursor.png), auto;
+}   
+
 img:hover {
     cursor: url(./assets/interactable-cursor.png), auto;
 }
@@ -266,6 +270,7 @@ a:visited {
     margin-left: 0;
     margin-top: 1em;
        color: #2F00FF;
+       text-decoration: underline;
 }
 
 #title {
@@ -375,7 +380,7 @@ scrollbar-color: black white; /* thumb color, track color */
   z-index: 2;
 }
 
-.bodycopy::before {
+/* .bodycopy::before {
   top: 0;
   background: linear-gradient(to bottom, #2F00FF, transparent);
 }
@@ -383,7 +388,7 @@ scrollbar-color: black white; /* thumb color, track color */
 .bodycopy::after {
   bottom: 0;
   background: linear-gradient(to top, #2F00FF, transparent);
-}
+} */
 
 #statement p {
     font-family: helvetica, sans-serif;

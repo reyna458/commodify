@@ -72,6 +72,7 @@ $(document).ready(function () {
   });
 
   $(document).on("click", ".arrow-clickable-right", function() {
+    $('#title-button').css("background-color", "#2F00FF");
     if (artworkNumber > 6) return;
     artworkNumber++;
     console.log(artworkNumber);
@@ -85,6 +86,7 @@ $(document).ready(function () {
   });
 
   $(document).on("click", ".arrow-clickable-left", function() {
+     $('#title-button').css("background-color", "#2F00FF");
     if (artworkNumber < 1) return;
     artworkNumber--;
     console.log(artworkNumber);
